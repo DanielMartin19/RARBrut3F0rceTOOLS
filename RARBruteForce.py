@@ -72,8 +72,8 @@ ______  ___  ____________            _   ___________ _____            _____ ____
     """
     print_custom_banner(main_text_ascii=daniel_martin_ascii, author_name="Daniel Martin")
     time.sleep(2) # Jeda 2 detik
-rar_file = "test.rar"
-wordlist_file = "wordlist.txt"
+rar_file = "test.rar" #Jangan lupa ganti dengan nama file rar kamu
+wordlist_file = "wordlist.txt" #Jangan lupa ganti dengan nama file txt kamu
 start = time.time()
 crack_rar(rar_file, wordlist_file)
 print(f"\nWaktu eksekusi: {time.time() - start:.2f} detik")
