@@ -2,7 +2,8 @@
 
 1. This tools already tested on windows. Dunno for linux or mac ??
 2. You need to create unrar path first in your windows environment variables
-   Step by step to add:
+
+Step by step to add:
      - Download your Unrar file from this website => "https://www.rarlab.com/rar_add.htm" ; choose "UnRAR for Windows"
      - Create folder on your "C" directory seems like this => "C:\Unrar"
      - After your download finish, double click on unrarw64.exe and choose the destination folder to C:\Unrar
