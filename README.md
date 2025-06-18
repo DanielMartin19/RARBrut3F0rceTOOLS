@@ -8,6 +8,6 @@
      - Create folder on your "C" directory seems like this => "C:\Unrar"
      - After your download finish, double click on unrarw64.exe and choose the destination folder to C:\Unrar
      - Search "edit the system environment variables" => Choose "Environment Variables" => double click on "Path" section => add "C:\Unrar" => Click "Ok"
-     - Open the source
-     - Try it you self!! Good luck 😲
+     - Open the source code
+     - Try it your self!! Good luck 😲
 5. Good luck!!!
